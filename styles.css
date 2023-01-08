@@ -1,0 +1,26 @@
+body {
+  background-color: #fce4a3;
+}
+
+h1,
+p {
+  text-align: center;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  font-size: 25px;
+  margin: 0 30px;
+  color: brown;
+}
+
+.croissants-photo {
+  max-width: 50%;
+  border-radius: 8px;
+  display: block;
+  margin: 30px auto;
+}
